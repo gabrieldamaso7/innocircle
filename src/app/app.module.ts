@@ -44,7 +44,8 @@ type StoreType = {
     containers.HomeComponent,
     containers.NoContentComponent,
     containers.XLarge,
-    shared.Navbar
+    shared.Navbar,
+    shared.StyleDirective
   ],
   imports: [ // import Angular's modules
     BrowserModule,
